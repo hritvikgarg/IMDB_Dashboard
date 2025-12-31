@@ -62,3 +62,9 @@ Build ML Recommendation Engine powered by IMDb metadata
 
 💡 Author
 Hritvik Garg & Advika khaushik – Data Science | Power BI | Analytics
+
+
+
+**Download Full PBIX (Google Drive)**
+https://drive.google.com/drive/folders/1NHFpDOi1FnmLInr5paxlqZnfeYS5HeVf?usp=drive_link
+ 
