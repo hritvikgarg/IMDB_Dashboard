@@ -7,7 +7,6 @@
 **🎬 IMDb Movies Power BI Dashboard**
 
 Data-Driven Analysis of Global Cinema Trends (1980–2024)
-
 This repository contains a Power BI dashboard built using the IMDb Movies Open Dataset (85,000+ records).
 The dashboard explores movie ratings, genres, audience popularity, directors, and actor statistics, helping uncover insightful trends in the global film industry.
 
